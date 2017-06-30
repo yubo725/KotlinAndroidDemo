@@ -2,7 +2,7 @@
 使用Kotlin+Anko开发Android的Demo
 
 # 演示
-
+![image](https://github.com/yubo725/KotlinAndroidDemo/blob/master/gif/GIF.gif)
 
 # 依赖
 ### 项目的build.gradle文件中加入：
